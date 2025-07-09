@@ -1,4 +1,4 @@
-module github.com/ljuboops257/go-jira/v2
+module github.com/ljuboops257/go-jira
 
 go 1.21
 

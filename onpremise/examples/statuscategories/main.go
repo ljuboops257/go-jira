@@ -4,7 +4,7 @@ import (
 	"context"
 	"log"
 
-	jira "github.com/ljuboops257/go-jira/v2/onpremise"
+	jira "github.com/ljuboops257/go-jira//onpremise"
 )
 
 func main() {
