@@ -2,6 +2,8 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+## [](https://github.com/ljuboops257/go-jira/compare/v2.1.1...v) (2025-07-09)
+
 ### [2.1.1](https://github.com/ljuboops257/go-jira/compare/v1.9.1...v2.1.1) (2025-07-09)
 
 ### [1.9.1](https://github.com/ljuboops257/go-jira/compare/v2.1.0...v1.9.1) (2025-07-09)
