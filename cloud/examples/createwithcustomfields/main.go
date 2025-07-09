@@ -6,7 +6,7 @@ import (
 	"os"
 	"strings"
 
-	jira "github.com/andygrunwald/go-jira/v2/cloud"
+	jira "github.com/ljuboops257/go-jira/v2/cloud"
 	"github.com/trivago/tgo/tcontainer"
 )
 
