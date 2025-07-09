@@ -111,6 +111,7 @@ func TestUserService_Create(t *testing.T) {
 		Name:         "charlie",
 		Password:     "abracadabra",
 		EmailAddress: "charlie@atlassian.com",
+		Products:    []string{"jira-software"},
 		DisplayName:  "Charlie of Atlassian",
 		Groups: UserGroups{
 			Size: 2,
