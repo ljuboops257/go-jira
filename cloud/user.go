@@ -21,6 +21,7 @@ type User struct {
 	Key              string           `json:"key,omitempty" structs:"key,omitempty"`
 	Password         string           `json:"-"`
 	EmailAddress     string           `json:"emailAddress,omitempty" structs:"emailAddress,omitempty"`
+	Products         []string         `json:"products,omitempty" structs:"products,omitempty"`
 	AvatarUrls       AvatarUrls       `json:"avatarUrls,omitempty" structs:"avatarUrls,omitempty"`
 	DisplayName      string           `json:"displayName,omitempty" structs:"displayName,omitempty"`
 	Active           bool             `json:"active,omitempty" structs:"active,omitempty"`
